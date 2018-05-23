@@ -1,0 +1,16 @@
+c:\users\musi\source\repos\Speak\Speak\bin\Debug\Speak.exe.config
+c:\users\musi\source\repos\Speak\Speak\bin\Debug\Speak.exe
+c:\users\musi\source\repos\Speak\Speak\bin\Debug\Speak.pdb
+c:\users\musi\source\repos\Speak\Speak\obj\Debug\Speak.Properties.Resources.resources
+c:\users\musi\source\repos\Speak\Speak\obj\Debug\Speak.csproj.GenerateResource.cache
+c:\users\musi\source\repos\Speak\Speak\obj\Debug\Speak.csproj.CoreCompileInputs.cache
+c:\users\musi\source\repos\Speak\Speak\obj\Debug\Speak.exe
+c:\users\musi\source\repos\Speak\Speak\obj\Debug\Speak.pdb
+C:\Users\Musi\source\repos\Speak\Speak\obj\Debug\Speak.Form1.resources
+C:\Users\Musi\source\repos\Speak\Speak\obj\Debug\Speak.csprojResolveAssemblyReference.cache
+C:\Users\Musi\source\repos\Speak\Speak\bin\Debug\Interop.WMPLib.dll
+C:\Users\Musi\source\repos\Speak\Speak\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Musi\source\repos\Speak\Speak\obj\Debug\Interop.WMPLib.dll
+C:\Users\Musi\source\repos\Speak\Speak\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Musi\source\repos\Speak\Speak\obj\Debug\Speak.csproj.ResolveComReference.cache
+C:\Users\Musi\source\repos\Speak\Speak\obj\Debug\Speak.MediaPlayer.resources
